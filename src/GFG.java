@@ -8,7 +8,7 @@ class GFG {
     {
 
         // Creating and initializing custom character
-        char a = 'G';
+        char a = 'M';
 
         // Integer data type is generally
         // used for numeric values
